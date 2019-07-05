@@ -1,9 +1,9 @@
 name 'nginx'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
-license 'All Rights Reserved'
+maintainer 'Jamson'
+maintainer_email 'qiujx@cn.ibm.com'
+license 'apachev2'
 description 'Installs/Configures nginx'
-long_description 'Installs/Configures nginx'
+long_description IO.read("#{File.dirname(__FILE__)}/README.md")
 version '0.1.0'
 chef_version '>= 12.1' if respond_to?(:chef_version)
 
