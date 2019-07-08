@@ -7,3 +7,4 @@
 #0.1.1
 
 - Integrated with CI
+- Activate build
